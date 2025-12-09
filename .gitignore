@@ -1,0 +1,12 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore the secret API keys
+.env
+
+# Ignore python cache files
+__pycache__/
+
+# Ignore temporary audio files
+*.mp3
+*.wav
