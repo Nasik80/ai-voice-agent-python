@@ -1,5 +1,13 @@
-# AI Voice Agent (Jarvis)
+## Contributing
+This is an open-source project! I am a student developer and I welcome any contributions.
+If you have ideas for new features (like opening apps, playing music, etc.), feel free to:
+1. Fork this repository.
+2. Create a new branch.
+3. Submit a Pull Request (PR).
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+# AI Voice Agent (Jarvis)
 A voice-activated AI assistant built using Python, running locally on Linux (Pop!_OS). It uses **Groq (Llama 3.1)** for near-instant intelligence and **Google Speech Recognition** for voice commands.
 
 ## Features
